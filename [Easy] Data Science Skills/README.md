@@ -8,7 +8,7 @@
 <h5>Assumption:</h5>
 <p>- There are no duplicates in the <code>candidates</code> table</p>
 
-<h5><code>candidates</code>Table</h5>
+<h5><code>candidates </code>Table</h5>
 <pre>
 +-------------+--------------+
 | Column Name |	Type         |
@@ -18,7 +18,7 @@
 +-------------+--------------+
 </pre>
 
-<p><code>candidates</code> <h5>Example Input:</h5><p>
+<h5><code>candidates</code> Example Input:</h5>
 <pre>
 +-------------+--------------+
 |candidate_id |	skill        |
