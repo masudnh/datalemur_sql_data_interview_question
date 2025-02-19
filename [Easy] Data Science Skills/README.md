@@ -8,7 +8,7 @@
 <h5>Assumption:</h5>
 <p>- There are no duplicates in the <code>candidates</code> table</p>
 
-<p><code>candidates</code> <h5>Table</h5></p>
+<h5><code>candidates</code>Table</h5>
 <pre>
 +-------------+--------------+
 | Column Name |	Type         |
